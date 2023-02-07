@@ -1,16 +1,14 @@
-before:
-  # hooks:
-  #   - go mod download
 builds:
-  - env:
-      - "CGO_ENABLED=0"
-    goos:
+  - goos:
       - linux
       - windows
+      - freebsd
     goarch:
       - amd64
+      - 386
 archives:
   - replacements:
+      darwin: Darwin
       linux: Linux
       windows: Windows
       386: i386
