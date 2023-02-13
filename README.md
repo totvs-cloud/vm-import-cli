@@ -16,7 +16,7 @@ Objetivo CLI VM Import
 }
 ```
 
-## Execução CLI VM Import
+## Exemplo de execução CLI VM Import
 ```
 vm-import -config config.json -file arquivo.ovf -check-sha256 true
 ```
