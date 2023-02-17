@@ -19,7 +19,7 @@
 ```
 ----------------------------------------------------------------
 
-# Exemplo de execução CLI VM Import
+# Execução CLI VM Import
 
 **Observação:** Ao baixar o CLI VM Import cerfique que é um executável.
 
