@@ -2,10 +2,9 @@
 
 **Facilitar o processo de importação de virtual machine para nuvem da TOTVS.**
 
-1. Listagem de Buckets;
-2. Realizar upload arquivo OVF para o Bucket;
-3. O VM Import apresenta o progresso do upload;
-4. Ao finaliza o upload demonstra em tela a conclusão da importação;
+1. Realizar upload arquivo OVF para o Bucket;
+2. O VM Import apresenta o progresso do upload;
+3. Ao finaliza o upload demonstra em tela a conclusão da importação;
 
 ----------------------------------------------------------------
 
