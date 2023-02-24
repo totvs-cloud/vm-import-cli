@@ -1,8 +1,12 @@
 # Objetivo CLI VM Import
+### Tipos de arquivo válidos. ###
+- OVF
+- VMDK
+- ISO
 
 **Facilitar o processo de importação de virtual machine para nuvem da TOTVS.**
 
-1. Realizar upload arquivo OVF para o Bucket;
+1. Realizar upload arquivo para o Bucket;
 2. O VM Import apresenta o progresso do upload;
 3. Ao finaliza o upload demonstra em tela a conclusão da importação;
 
@@ -11,7 +15,7 @@
 # Estrutura config.json
 ```
 {
-  "Bucket": "bck_name",
+  "TCode": "TOTVSCODE",
   "AccessKeyID": "usr_key",
   "SecretAccessKey": "scr_key"
 }
