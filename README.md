@@ -15,10 +15,11 @@
 # Estrutura config.json
 ```
 {
-  "TCode": "TOTVSCODE",
+  "Bucket": "bck_name",
   "AccessKeyID": "usr_key",
   "SecretAccessKey": "scr_key"
 }
+
 ```
 ----------------------------------------------------------------
 
