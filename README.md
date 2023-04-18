@@ -2,7 +2,6 @@
 ### Tipos de arquivo válidos. ###
 - OVF
 - VMDK
-- ISO
 
 **Facilitar o processo de importação de virtual machine para nuvem da TOTVS.**
 
