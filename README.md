@@ -1,7 +1,7 @@
 # Objetivo CLI VM Import
 ### Tipos de arquivo válidos. ###
 - OVF
-- VMDK
+
 
 **Facilitar o processo de importação de virtual machine para nuvem da TOTVS.**
 
